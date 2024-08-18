@@ -3,18 +3,18 @@ title: "Biography and CV"
 ---
 
 ## 📄CV
-A copy of my CV is available here: [Link](https://github.com/juzgenbayev/mycv/blob/master/vita.pdf)
+A copy of my CV is available here: [Link](https://nbviewer.org/github/juzgenbayev/cv/blob/main/cv-juzgenbayev.pdf)
 
 
 ## 📚Education
 
 ### 📜 Ph.D. Candidate in Political Science
 
-Northwestern University, _2026 (Expected)_
+Northwestern University, _2027 (Expected)_
 
 ### ⚖️ J.D. Candidate
 
-Northwestern University Pritzker School of Law, _2026 (Expected)_
+Northwestern University Pritzker School of Law, _2027 (Expected)_
 
 ### 🪄 M.A. in Political Science
 
