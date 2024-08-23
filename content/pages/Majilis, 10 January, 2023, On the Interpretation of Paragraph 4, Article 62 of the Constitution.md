@@ -5,13 +5,13 @@ title: Majilis, 10/1/2023
 
 Constitutional amendments, enacted in the wake of a national referendum, excluded provisions that specified the responsibilities and privileges of the First President of Kazakhstan, including his lifetime membership the Constitutional Council and the right to stand for presidential elections an unlimited number of times. It further removed the provision that the status of the First President is to be regulated by constitutional law.
 
-Paragraph 4 of the [[Article 62]] provides as follows: *Constitutional laws shall be adopted on issues stipulated by the Constitution by a majority of at least two-thirds of the votes of the total number of deputies of each Chamber.*
+Paragraph 4 of the [[tags/Article-62|Article 62]] provides as follows: *Constitutional laws shall be adopted on issues stipulated by the Constitution by a majority of at least two-thirds of the votes of the total number of deputies of each Chamber.*
 
-A group of deputies from the lower chamber of Parliament petitioned the Constitutional Court to provide, [[in abstracto]], an interpretation of the provision with respect to two questions.
+A group of deputies from the lower chamber of Parliament petitioned the Constitutional Court to provide, [[tags/in abstracto|in abstracto]], an interpretation of the provision with respect to two questions.
 
 ## Questions
 
-1. Does Paragraph 4 of the [Article 62](Article%2062) imply that Parliament may only pass such constitutional laws that are explicitly specified to be passed in the Constitution?
+1. Does Paragraph 4 of the [[tags/Article-62|Article 62]]  imply that Parliament may only pass such constitutional laws that are explicitly specified to be passed in the Constitution?
 
 2. Does the removal of the provisions regulating the status of the First President from the Constitution imply that the Constitutional Law on the Status of the First President loses force?
 
@@ -26,7 +26,7 @@ A group of deputies from the lower chamber of Parliament petitioned the Constitu
 ### Metadata
 * Judges: Azimova (Chief); Nurmukhanov (Rapporteur); Udartsev (Rapporteur) Eskendirov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin; Podoprigora; Sarsembaev;
 * Date: January 10, 2023
-* Tags: [[separation-of-powers]]
+* Tags: [[tags/separation-of-powers|separation-of-powers]]
 * Link: [Нормативное постановление Конституционного Суда Республики Казахстан от 10 января 2023 года № 2 «Об официальном толковании пункта 4 статьи 62 Конституции Республики Казахстан» (www.gov.kz)](https://www.gov.kz/memleket/entities/ksrk/documents/details/397743?lang=ru)
 
 ##### DISCLAIMER:
