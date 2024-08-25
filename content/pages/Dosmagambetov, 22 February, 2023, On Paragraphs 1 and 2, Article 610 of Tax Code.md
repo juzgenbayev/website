@@ -40,7 +40,7 @@ The relevant provisions provide as follows:
 * Judges: Azimova (Chief); Kydyrbaeva (Rapporteur); Nurmukhanov; Eskendirov; Zhakipbaev; Zhatkanbayeva; Musin; Ongarbaev; Podoprigora; Sarsembaev; Udartsev
 * Date: 22 February, 2023
 * Tags: [[civil-procedure]]
-* Link: [Нормативное постановление Конституционного Суда Республики Казахстан от 27 марта 2023 года № 5 (www.gov.kz)](https://www.gov.kz/memleket/entities/ksrk/documents/details/447284?lang=ru)
+* Link: [Dosmagambetov](https://github.com/juzgenbayev/KSKR-Docs/blob/main/Dosmagambetov%2C%2022%20Feb%202023.docx)
 
 
 ##### DISCLAIMER:

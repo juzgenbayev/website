@@ -31,7 +31,7 @@ A group of deputies from the lower chamber of Parliament petitioned the Constitu
 * Judges: Azimova (Chief); Nurmukhanov (Rapporteur); Udartsev (Rapporteur) Eskendirov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin; Podoprigora; Sarsembaev;
 * Date: January 10, 2023
 * Tags: [[tags/separation-of-powers|separation-of-powers]]
-* Link: [Нормативное постановление Конституционного Суда Республики Казахстан от 10 января 2023 года № 2 «Об официальном толковании пункта 4 статьи 62 Конституции Республики Казахстан» (www.gov.kz)](https://www.gov.kz/memleket/entities/ksrk/documents/details/397743?lang=ru)
+* Link: [Majilis](https://github.com/juzgenbayev/KSKR-Docs/blob/main/Majilis%2C%2010%20Jan%202023.docx)
 
 ##### DISCLAIMER:
 * The website's summary of the Court's holding is made for educational purposes only, is not legal advice, and does not form an attorney-client relationship. The summary represents author's interpretation of the decision, and may be incomplete or inaccurate. For the text of the decision, see the hyperlink above.

@@ -29,7 +29,7 @@ who, within three years before entering the civil service, was found liable for 
 * Judges: Azimova (Chief); Nurmukhanov (Rapporteur); Eskendirov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin; Ongarbaev; Podoprigora; Sarsembaev; Udartsev
 * Date: March 6, 2023
 * Tags: [[employment-law]]
-* Link: [Argumbaev](https://github.com/juzgenbayev/KSKR-Docs/blob/main/Argumbaev%2C%206%20March%2C%202023.doc).
+* Link: [Argumbaev](https://github.com/juzgenbayev/KSKR-Docs/blob/main/Argumbaev%2C%206%20March%202023.doc).
 
 ##### DISCLAIMER:
 * The website's summary of the Court's holding is made for educational purposes only, is not legal advice, and does not form an attorney-client relationship. The summary represents author's interpretation of the decision, and may be incomplete or inaccurate. For the text of the decision, see the hyperlink above.
