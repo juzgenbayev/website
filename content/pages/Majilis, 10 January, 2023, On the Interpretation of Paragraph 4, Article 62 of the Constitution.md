@@ -1,5 +1,9 @@
 ---
 title: Majilis, 10/1/2023
+tags:
+  - Article-62
+  - separation-of-powers
+  - in-abstracto
 ---
 ## Facts of the case
 
@@ -11,7 +15,7 @@ A group of deputies from the lower chamber of Parliament petitioned the Constitu
 
 ## Questions
 
-1. Does Paragraph 4 of the [[tags/Article-62|Article 62]]  imply that Parliament may only pass such constitutional laws that are explicitly specified to be passed in the Constitution?
+1. Does Paragraph 4 of the [[tags/Article-62|Article 62]] imply that Parliament may only pass such constitutional laws that are explicitly specified to be passed in the Constitution?
 
 2. Does the removal of the provisions regulating the status of the First President from the Constitution imply that the Constitutional Law on the Status of the First President loses force?
 
