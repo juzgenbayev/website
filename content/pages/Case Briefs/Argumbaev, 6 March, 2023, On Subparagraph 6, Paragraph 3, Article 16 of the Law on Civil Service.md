@@ -1,5 +1,9 @@
 ---
 title: Argumbaev, 6/3/23
+tags:
+  - employment-law
+  - Article-33
+  - Article-24
 ---
 ## Facts of the case
 
@@ -19,7 +23,7 @@ who, within three years before entering the civil service, was found liable for 
 
 ## Holding
 
-* Yes. Article 33 guarantees an equal right to serve in public office, and the requirements imposed must be conditioned only by the character of the duties of the office that are established by law. Article 24 provides the right to freedom of labor and free choice of occupation. The court held that Parliament may impose restrictions such as those limiting access to public service on the basis of prior offenses where such restrictions are related to objective criteria such as the applicant's ability and character. However, any such restrictions must be fair, proportional, and rationally related to the government's goals. Disciplinary violations are in their magnitude of social harm less serious than criminal and administrative offenses; individuals do not have to be found liable for such offenses in courts. Despite this, certain criminal and administrative offenses carry less onerous restrictions than what subparagraph 6 provides. Because the restrictions are disproportional to the interests protected by its imposition, the lifelong prohibition on civil service in subparagraph 6 violates Articles [[Article 33|33]] and [[Article 24|24]] of the Constitution. The Government is ordered to introduce legislation in less than 6 months consistent with these findings.
+* Yes. Article 33 guarantees an equal right to serve in public office, and the requirements imposed must be conditioned only by the character of the duties of the office that are established by law. Article 24 provides the right to freedom of labor and free choice of occupation. The court held that Parliament may impose restrictions such as those limiting access to public service on the basis of prior offenses where such restrictions are related to objective criteria such as the applicant's ability and character. However, any such restrictions must be fair, proportional, and rationally related to the government's goals. Disciplinary violations are in their magnitude of social harm less serious than criminal and administrative offenses; individuals do not have to be found liable for such offenses in courts. Despite this, certain criminal and administrative offenses carry less onerous restrictions than what subparagraph 6 provides. Because the restrictions are disproportional to the interests protected by its imposition, the lifelong prohibition on civil service in subparagraph 6 violates #Article-33  and #Article-24 of the Constitution. The Government is ordered to introduce legislation in less than 6 months consistent with these findings.
 
 
 ### Foreign Authorities Cited
@@ -28,7 +32,6 @@ who, within three years before entering the civil service, was found liable for 
 ### Metadata
 * Judges: Azimova (Chief); Nurmukhanov (Rapporteur); Eskendirov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin; Ongarbaev; Podoprigora; Sarsembaev; Udartsev
 * Date: March 6, 2023
-* Tags: [[employment-law]]
 * Link: [Argumbaev](https://github.com/juzgenbayev/KSKR-Docs/blob/main/Argumbaev%2C%206%20March%202023.doc).
 
 ##### DISCLAIMER:
