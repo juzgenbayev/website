@@ -30,7 +30,6 @@ A group of deputies from the lower chamber of Parliament petitioned the Constitu
 ### Metadata
 * Judges: Azimova (Chief); Nurmukhanov (Rapporteur); Udartsev (Rapporteur) Eskendirov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin; Podoprigora; Sarsembaev;
 * Date: January 10, 2023
-* Tags: [[tags/separation-of-powers|separation-of-powers]]
 * Link: [Majilis](https://github.com/juzgenbayev/KSKR-Docs/blob/main/Majilis%2C%2010%20Jan%202023.docx)
 
 ##### DISCLAIMER:

@@ -1,5 +1,9 @@
 ---
 title: Dosmagambetov, 22/02/2023
+tags:
+  - Article-13
+  - Article-14
+  - civil-procedure
 ---
 ## Facts of the case
 
@@ -23,13 +27,13 @@ The relevant provisions provide as follows:
 
 1. When the initial court fee is calculated in accordance with the plaintiff's status as a legal entity, may the court calculate court fees on appeal by the defendant – an individual – in the amount of 50% of the initial court fee?
 
-2. Does the absence of available discretionary relief from court fees on appeal due to the party's economic hardship violate Articles [[Article 13|13]] and [[Article 14|14]] of the Constitution?
+2. Does the absence of available discretionary relief from court fees on appeal due to the party's economic hardship violate Articles 13 and 14 of the Constitution?
 
 ## Holding
 
-1. No. The court held that the initial court fee on appeal should be based on the individual defendant’s status, not the opposing party’s status. The court reasoned that the legislature intended to provide for individuals’ access to justice in accordance with the Constitution by establishing differential court fees that depend on the party’s legal status. The court found that imposing a higher fee on an individual because of the opposing party’s status on appeal was inconsistent with the general principles of law requiring consistency, clarity, and coherence of legislative regulation. The court concluded that such a fee arrangement infringed on individuals’ rights under [Article 13](Article%2013) and [Article 14](Article%2014) of the Constitution. Therefore, the court fee upon the appeal should be understood as imposing 50% of the initial fee *that would be collected* from an individual, not a legal entity.
+1. No. The court held that the initial court fee on appeal should be based on the individual defendant’s status, not the opposing party’s status. The court reasoned that the legislature intended to provide for individuals’ access to justice in accordance with the Constitution by establishing differential court fees that depend on the party’s legal status. The court found that imposing a higher fee on an individual because of the opposing party’s status on appeal was inconsistent with the general principles of law requiring consistency, clarity, and coherence of legislative regulation. The court concluded that such a fee arrangement infringed on individuals’ rights under #Article-13  and s of the Constitution. Therefore, the court fee upon the appeal should be understood as imposing 50% of the initial fee *that would be collected* from an individual, not a legal entity.
 
-2. Yes. The court held that the court fee arrangement violated the individual’s right to access justice and equality before the law. The court reasoned that the state’s fiscal needs must be balanced with the economic needs of the taxpayer. The court found that the legislator failed to find a reasonable balance between access to justice and the efficiency of the justice system when imposing a court fee. Current fee arrangement did not provide for an upper limit on a fee to be assessed, did not provide discretionary means for the court to waive the fee, postpone its payments, or provide for payments in installments. The court concluded that such a fee arrangement unconstitutionally limited individuals’ right to access justice under [Article 13](Article%2013) and put them in an unequal position with respect to other citizens under [Article 14](Article%2014). The court mandated the government to introduce legislation within three months to improve the legislative regulation of the court costs consistent with the opinion.
+2. Yes. The court held that the court fee arrangement violated the individual’s right to access justice and equality before the law. The court reasoned that the state’s fiscal needs must be balanced with the economic needs of the taxpayer. The court found that the legislator failed to find a reasonable balance between access to justice and the efficiency of the justice system when imposing a court fee. Current fee arrangement did not provide for an upper limit on a fee to be assessed, did not provide discretionary means for the court to waive the fee, postpone its payments, or provide for payments in installments. The court concluded that such a fee arrangement unconstitutionally limited individuals’ right to access justice under #Article-13  and put them in an unequal position with respect to other citizens under #Article-14. The court mandated the government to introduce legislation within three months to improve the legislative regulation of the court costs consistent with the opinion.
 
 
 ### Foreign Authorities Cited
@@ -39,7 +43,6 @@ The relevant provisions provide as follows:
 ### Metadata
 * Judges: Azimova (Chief); Kydyrbaeva (Rapporteur); Nurmukhanov; Eskendirov; Zhakipbaev; Zhatkanbayeva; Musin; Ongarbaev; Podoprigora; Sarsembaev; Udartsev
 * Date: 22 February, 2023
-* Tags: [[civil-procedure]]
 * Link: [Dosmagambetov](https://github.com/juzgenbayev/KSKR-Docs/blob/main/Dosmagambetov%2C%2022%20Feb%202023.docx)
 
 
