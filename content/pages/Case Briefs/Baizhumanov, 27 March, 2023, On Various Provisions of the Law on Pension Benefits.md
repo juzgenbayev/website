@@ -2,8 +2,6 @@
 title: Baizhumanov, 27/03/2023
 tags:
   - Supreme-Court
-  - Article-28
-  - Article-39
   - employment-law
 ---
 ## Facts of the case

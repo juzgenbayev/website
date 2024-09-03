@@ -1,7 +1,6 @@
 ---
 title: Majilis, 10/1/2023
 tags:
-  - Article-62
   - separation-of-powers
   - in-abstracto
 ---
@@ -9,7 +8,7 @@ tags:
 
 Constitutional amendments, enacted in the wake of a national referendum, excluded provisions that specified the responsibilities and privileges of the First President of Kazakhstan, including his lifetime membership the Constitutional Council and the right to stand for presidential elections an unlimited number of times. It further removed the provision that the status of the First President is to be regulated by constitutional law.
 
-Paragraph 4 of the [[tags/Article-62|Article 62]] provides as follows: *Constitutional laws shall be adopted on issues stipulated by the Constitution by a majority of at least two-thirds of the votes of the total number of deputies of each Chamber.*
+Paragraph 4 of the [[Article 62]] provides as follows: *Constitutional laws shall be adopted on issues stipulated by the Constitution by a majority of at least two-thirds of the votes of the total number of deputies of each Chamber.*
 
 A group of deputies from the lower chamber of Parliament petitioned the Constitutional Court to provide, [[tags/in abstracto|in abstracto]], an interpretation of the provision with respect to two questions.
 

@@ -1,0 +1,2 @@
+1. Everyone shall be equal before the law and court.
+2. No one shall be discriminated against on the grounds of origin, social, official or property status, sex, race, nationality, language, attitude to religion, convictions, place of residence or any other circumstance.
