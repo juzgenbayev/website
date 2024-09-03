@@ -1,5 +1,5 @@
 ---
-title: Argumbaev, 6/3/23
+title: Argumbaev, 6/3/2023
 tags:
   - employment-law
 ---

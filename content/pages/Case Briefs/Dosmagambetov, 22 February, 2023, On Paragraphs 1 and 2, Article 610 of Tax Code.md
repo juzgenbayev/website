@@ -1,5 +1,5 @@
 ---
-title: Dosmagambetov, 22/02/2023
+title: Dosmagambetov, 22/2/2023
 tags:
   - civil-procedure
 ---

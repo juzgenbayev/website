@@ -1,5 +1,5 @@
 ---
-title: Naumtsev, 27/03/2023
+title: Naumtsev, 27/3/2023
 tags:
   - criminal-procedure
 ---
