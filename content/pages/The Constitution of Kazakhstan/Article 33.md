@@ -1,0 +1,4 @@
+1. Citizens of the Republic of Kazakhstan shall have the right to participate directly and through their representatives in the management of state affairs, to make personal, individual and collective appeals to state and local self-government bodies.
+2. Citizens of the Republic shall have the right to elect and be elected to bodies of state and local self-government, as well as to participate in a republican referendum.
+3. The right to elect and be elected to bodies of state and local self-government, as well as to participate in a republican referendum, shall not extend to citizens who have been declared legally incompetent by a court, or to citizens who have been placed in a detention facility by a court order.
+4. Citizens of the Republic shall have equal rights to hold public office. The requirements for candidates for public office shall be determined solely by the nature of the duties of the office and shall be established by law.

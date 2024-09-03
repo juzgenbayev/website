@@ -1,7 +1,6 @@
 ---
 title: Baizhumanov, 27/03/2023
 tags:
-  - Supreme-Court
   - employment-law
 ---
 ## Facts of the case
