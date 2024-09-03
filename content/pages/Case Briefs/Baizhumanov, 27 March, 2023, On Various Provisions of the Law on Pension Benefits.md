@@ -14,7 +14,7 @@ tags:
 ### Foreign Authorities Cited
 * None mentioned. 
 ### Metadata
-* Judges: Azimova (Chief); Eskendirov(Rapporteur); Nurmukhanov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin; Ongarbaev; Podoprigora; Sarsembaev; Udartsev
+* Judges: Azimova (Chief); Eskendirov (Rapporteur); Nurmukhanov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin; Ongarbaev; Podoprigora; Sarsembaev; Udartsev
 * Date: March 27, 2023
 * Link: [Baizhumanov](https://github.com/juzgenbayev/KSKR-Docs/raw/main/Baizhumanov,%2027%20Mar%202023.docx)
 ##### DISCLAIMER:
