@@ -2,7 +2,7 @@
 title: Home Page
 ---
 
-Hello 👋. Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern University Pritzker School of Law & Department of Political Science. I am interested in legal doctrine, political change, and legal profession—in post-socialist and common law countries. In my free time, I take pictures of things around. 
+Hello 👋 Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern University Pritzker School of Law & Department of Political Science. I am interested in legal doctrine, political change, and legal profession—in post-socialist and common law countries. In my free time, I take pictures of things around. 
 
 ![Fieldwork photo: Constitutional Tribunal of the Supreme Court of the Kyrgyz Republic (2019)](https://i.imgur.com/GcnmnQF.jpg)
 
