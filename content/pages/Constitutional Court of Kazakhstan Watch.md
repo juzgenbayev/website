@@ -2,7 +2,7 @@
 title: Court Watch
 ---
 Here, I attempt to provide briefs from the decisions of the Constitutional Court of Kazakhstan in a relatively accessible format, hoping it could be useful for the readers interested in comparative constitutional law, comparative politics, and civil rights litigation.
-
+* [[Tokayev, 8 April 2023, On Changes to Constitutional Laws Related to Administrative Reform]]
 * [[Naumtsev, 27 March 2023, On Various Provisions of Article 141 the Penitentiary Code]]
 * [[Baizhumanov, 27 March 2023, On Various Provisions of the Law on Pension Benefits]]
 * [Argumbaev, 6 March 2023, On Subparagraph 6, Paragraph 3, Article 16 of the Law on Civil Service](Argumbaev,%206%20March%202023,%20On%20Subparagraph%206,%20Paragraph%203,%20Article%2016%20of%20the%20Law%20on%20Civil%20Service.md)
