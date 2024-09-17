@@ -1,0 +1,3 @@
+1. The President of the Republic of Kazakhstan shall be the Head of State, the holder of the highest office, who shall determine the main directions of the domestic and foreign policy of the state and represent Kazakhstan at home and in international relations.
+2. The President of the Republic shall be the symbol and guarantor of the unity of the people and state power, the inviolability of the Constitution, the rights and freedoms of man and citizen.
+3. The President of the Republic shall ensure the coordinated functioning of all branches of government and the accountability of the authorities to the people.

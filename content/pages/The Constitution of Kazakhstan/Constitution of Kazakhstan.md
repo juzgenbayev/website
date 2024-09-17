@@ -3,13 +3,18 @@
 
 ![[Article 13]]
 ![[Article 14]]
+![[Article 17]]
 ![[Article 24]]
+![[Article 27]]
 ![[Article 28]]
 ![[Article 33]]
 ![[Article 39]]
+# Section 3 
+* ![[Article 40]]
+* ![[Article 44]]
 # Section 4
 ![[Article 62]]
-
-
+# Section 5: The Government
+* ![[Article 66]]*
 ### A note on translation
 * The text of the Constitutions is sourced from the Office of the President ([Constitution of the Republic of Kazakhstan](https://www.akorda.kz/en/constitution-of-the-republic-of-kazakhstan-50912) and may not represent the best and accurate translation of the underlying original text. 
