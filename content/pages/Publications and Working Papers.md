@@ -8,5 +8,5 @@ title: "Publications and Working Papers"
 
 ## Working Papers
 
-📄The Effect of Populist Messages on Perception and Legitimacy of Constitutional Courts: A Survey Experiment in Czech Republic (under review). [Preprint](https://osf.io/3u7ak)
+📄**Juzgenbayev, A**., The Effect of Populist Messages on Perception and Legitimacy of Constitutional Courts: A Survey Experiment in Czech Republic (forthcoming in ***Journal of Law and Courts***). [Preprint](https://osf.io/3u7ak)
 

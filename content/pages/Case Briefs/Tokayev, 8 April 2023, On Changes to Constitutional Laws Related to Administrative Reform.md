@@ -24,7 +24,7 @@ tags:
 ### Foreign Authorities Cited
 * None mentioned.
 ### Metadata
-* Judges: Azimova (Chief); Eskendirov; Nurmukhanov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin(Rapporteur); Ongarbaev; Podoprigora; Sarsembaev; Udartsev
+* Judges: Azimova (Chief); Eskendirov; Nurmukhanov; Zhakipbaev; Zhatkanbayeva; Kydyrbaeva; Musin (Rapporteur); Ongarbaev; Podoprigora; Sarsembaev; Udartsev
 * Date: March 27, 2023
 * Link: [Tokayev](https://github.com/juzgenbayev/KSKR-Docs/blob/main/Tokayev%2C%208%20Apr%202023.docx)
 ##### DISCLAIMER:
