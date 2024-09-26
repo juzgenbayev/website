@@ -21,5 +21,6 @@ Hello 👋 Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern U
 * [Datasets](pages/Datasets.md)
 * [Photography](pages/Photography.md)
 * [Constitutional Court of Kazakhstan Watch](pages/Constitutional%20Court%20of%20Kazakhstan%20Watch.md)
+* [[Teaching]]
 
  **Website Troubles are not Made; they Come**
