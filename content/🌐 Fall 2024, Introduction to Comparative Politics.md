@@ -6,4 +6,4 @@
 
 ### Section Syllabus
 
-![[250_syllabus_2024_roberts.pdf]]]
+![[1250_syllabus_2024_roberts.pdf]]
