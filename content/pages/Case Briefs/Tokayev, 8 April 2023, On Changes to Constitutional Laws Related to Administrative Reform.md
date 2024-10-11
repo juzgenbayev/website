@@ -19,7 +19,11 @@ These legislative acts aim to implement administrative reforms as outlined in th
 Do the Constitutional Law and the Law concerning administrative reform violate the [[Constitution of Kazakhstan]]?
 ## Holding
 
+<<<<<<< HEAD
 Partially. The Constitutional Court ruled that both the Constitutional Law and the Law are generally consistent with the Constitution of the Republic of Kazakhstan. The court found that the proposed changes align with constitutional provisions regarding the separation of powers, the roles of the President, and the functions of the Government and local executive bodies.
+=======
+Partially. The Constitutional Court ruled that both the Constitutional Law and the Law are consistent with the Constitution of the Republic of Kazakhstan. The court found that the proposed changes align with constitutional provisions regarding the separation of powers, the roles of the President, and the functions of the Government and local executive bodies.
+>>>>>>> d5faee88d525b20ff34bb0c02551f165d32f4911
 
 However, the court identified specific provisions that may cause contradictions in implementation, requiring further change to the provisions:
 

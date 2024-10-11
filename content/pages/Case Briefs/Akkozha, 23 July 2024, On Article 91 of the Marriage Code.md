@@ -5,11 +5,19 @@ tags:
 ---
 ## Facts of the case
 
+<<<<<<< HEAD
 Pettioner Akkozha was denied an application to register for an adoption by the Semey city government. The city government cited the provision of the Marriage Code, the Article 91 of which prohibits unmarried men from adoption, unless they demonstrate their *de facto* status as fathers of a child for at least three years. Petitioner filed an appeal with the Constitutional Court alleging deprivation of his constitutional rights.
 
 ## Question
 
 In forbidding unmarried men---but not women---from being candidates for adoption, does the Subpart 11, Part 2 of Article 91 of the Marriage Code violate [[Article 14]] of the [[Constitution of Kazakhstan]]? 
+=======
+Pettioner Akkozha was denied an application to register for an adoption by the Semey city government. The city government cited the provision of the Marriage Code, the Article 91 of which prohibits unmarried men from adoption--unless they demonstrate their de facto status as fathers of a child for at least three years. Petitioner filed an appeal with the Constitutional Court alleging deprivation of his constitutional rights.
+
+## Question
+
+In forbidding unmarried men--but not women--from being candidates for adoption, does the Subpart 11, Part 2 of Article 91 of the Marriage Code violate [[Article 14]] of the [[Constitution of Kazakhstan]]? 
+>>>>>>> d5faee88d525b20ff34bb0c02551f165d32f4911
 
 ## Holding
 
@@ -18,7 +26,11 @@ Yes. The court noted that Kazakhstan's international obligations, as well as its
 
 ### Foreign Authorities Cited
 * [Convention on the Rights of a Child](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_44_25.pdf)
+<<<<<<< HEAD
 * [Convention on the Elimination of All Forms of Discrimination against Women](un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_34_180.pdf](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_34_180.pdf)https://www.un.org/womenwatch/daw/cedaw/)
+=======
+* [Convention on the Elimination of All Forms of Discrimination against Women]([un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_34_180.pdf](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_34_180.pdf))
+>>>>>>> d5faee88d525b20ff34bb0c02551f165d32f4911
 
 ### Metadata
 * Judges: Azimova (Chief); Kydyrbaeva (Rapporteur); Nurmukhanov; Eskendirov; Zhakipbaev; Zhatkanbayeva; Musin; Ongarbaev; Podoprigora; Sarsembaev; Udartsev
