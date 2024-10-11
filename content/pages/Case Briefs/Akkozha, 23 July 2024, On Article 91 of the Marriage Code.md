@@ -5,11 +5,11 @@ tags:
 ---
 ## Facts of the case
 
-Pettioner Akkozha was denied an application to register for an adoption by the Semey city government. The city government cited the provision of the Marriage Code, the Article 91 of which prohibits unmarried men from adoption--unless they demonstrate their de facto status as fathers of a child for at least three years. Petitioner filed an appeal with the Constitutional Court alleging deprivation of his constitutional rights.
+Pettioner Akkozha was denied an application to register for an adoption by the Semey city government. The city government cited the provision of the Marriage Code, the Article 91 of which prohibits unmarried men from adoption, unless they demonstrate their *de facto* status as fathers of a child for at least three years. Petitioner filed an appeal with the Constitutional Court alleging deprivation of his constitutional rights.
 
 ## Question
 
-In forbidding unmarried men--but not women--from being candidates for adoption, does the Subpart 11, Part 2 of Article 91 of the Marriage Code violate [[Article 14]] of the [[Constitution of Kazakhstan]]? 
+In forbidding unmarried men---but not women---from being candidates for adoption, does the Subpart 11, Part 2 of Article 91 of the Marriage Code violate [[Article 14]] of the [[Constitution of Kazakhstan]]? 
 
 ## Holding
 
