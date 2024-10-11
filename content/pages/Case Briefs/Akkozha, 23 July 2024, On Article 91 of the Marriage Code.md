@@ -18,7 +18,7 @@ Yes. The court noted that Kazakhstan's international obligations, as well as its
 
 ### Foreign Authorities Cited
 * [Convention on the Rights of a Child](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_44_25.pdf)
-* [Convention on the Elimination of All Forms of Discrimination against Women]([un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_34_180.pdf](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_34_180.pdf))
+* [Convention on the Elimination of All Forms of Discrimination against Women](un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_34_180.pdf](https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_34_180.pdf)https://www.un.org/womenwatch/daw/cedaw/)
 
 ### Metadata
 * Judges: Azimova (Chief); Kydyrbaeva (Rapporteur); Nurmukhanov; Eskendirov; Zhakipbaev; Zhatkanbayeva; Musin; Ongarbaev; Podoprigora; Sarsembaev; Udartsev
