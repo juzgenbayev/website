@@ -2,6 +2,7 @@
 title: Court Watch
 ---
 Here, I attempt to provide briefs from the decisions of the Constitutional Court of Kazakhstan in a relatively accessible format, hoping it could be useful for the readers interested in comparative constitutional law, comparative politics, and civil rights litigation.
+* [[Akkozha, 23 July 2024, On Article 91 of the Marriage Code]]†
 * [[Tokayev, 8 April 2023, On Changes to Constitutional Laws Related to Administrative Reform]]
 * [[Naumtsev, 27 March 2023, On Various Provisions of Article 141 the Penitentiary Code]]
 * [[Baizhumanov, 27 March 2023, On Various Provisions of the Law on Pension Benefits]]
