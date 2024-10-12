@@ -10,7 +10,7 @@ Pettioner Akkozha was denied an application to register for an adoption by the S
 
 ## Question
 
-In forbidding unmarried men---but not women---from being candidates for adoption, does the Subpart 11, Part 2 of Article 91 of the Marriage Code violate [[Article 14]] of the [[Constitution of Kazakhstan]]? 
+In forbidding unmarried men--but not women--from being candidates for adoption, does the Subpart 11, Part 2 of Article 91 of the Marriage Code violate [[Article 14]] of the [[Constitution of Kazakhstan]]? 
 
 ## Holding
 
