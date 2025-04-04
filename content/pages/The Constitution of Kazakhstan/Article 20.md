@@ -1,0 +1,3 @@
+1. Freedom of expression and creativity shall be guaranteed. Censorship shall be prohibited.
+2. Everyone shall have the right to freely receive and disseminate information by any means not prohibited by law. The list of information constituting state secrets of the Republic of Kazakhstan shall be determined by law.
+3. Propaganda or agitation for violent change of the constitutional system, violation of the integrity of the Republic, undermining of state security, advocacy of war, social, racial, national, religious, class and clan superiority, as well as the cult of cruelty and violence shall be prohibited.

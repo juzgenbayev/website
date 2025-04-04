@@ -1,0 +1,1 @@
+* Citizens of the Republic of Kazakhstan shall have the right to assemble peacefully and unarmed, to hold meetings, campaigns, demonstrations, street processions and pickets. The exercise of this right may be restricted by law in the interests of state security, public order, protection of health, rights and freedoms of others.
