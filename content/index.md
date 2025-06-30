@@ -8,7 +8,7 @@ Hello 👋 Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern U
 ![[notes/images/photo.jpg]]
 ## Featured
 
-* 📄**Juzgenbayev, A**., The Effect of Populist Messages on Perception and Legitimacy of Constitutional Courts: A Survey Experiment in Czech Republic (***Journal of Law and Courts***). [OA](https://doi.org/10.1017/jlc.2024.17)
+* 📄Trochev, A., & **Juzgenbayev, A.** (2025). [Diverging Trajectories of Post-Soviet Constitutional Courts](pages/Diverging%20Trajectories%20of%20Post-Soviet%20Constitutional%20Courts.md). _Constitutional Studies_, 11(1), 271–315. [doi:10.15781/43f33f59](https://doi.org/10.15781/43f33f59)
 ## Navigation
 
 * [Biography and CV](pages/Biography%20and%20CV.md)
