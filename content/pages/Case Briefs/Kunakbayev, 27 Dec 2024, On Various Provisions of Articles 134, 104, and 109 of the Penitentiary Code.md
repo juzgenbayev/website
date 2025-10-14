@@ -10,6 +10,7 @@ Petitioner Kunakbayev was placed in a disciplinary cell as a result of violation
 ## Question
 
 Do the provisions of the Penitentiary Code that limit an ability of a prisoner—placed in a disciplinary cell—to make telephone calls absent exigent personal and familial circumstances and that sets a frequency limit on those calls violate the prisoner's rights to receive legal ([[Article 13]]) and medical assistance ([[Article 29]])?
+
 ## Holding
 
 No. [[Article 13]] rights are absolute and cannot be restricted under any circumstances. While the state may regulate the form and procedure under which legal assistance is provided depending on the nature of a proceeding, it cannot limit the means and scope of such assistance. The state, therefore, has affirmative obligations to delineate, with requisite precisions, mechanisms necessary to realize this right. The Court, thus, interpreted the relevant provisions as not imposing an "exhaustive list" of circumstances under which a prisoner is entitled to make telephone calls. Given that other provisions of the Penitentiary Code guarantee basic medical and legal assistance regardless of the nature of confinement—the Court noted—the prisoner cannot be limited in his ability to receive a guaranteed minimal level of medical assistance or to receive legal assistance, including via phone calls. 

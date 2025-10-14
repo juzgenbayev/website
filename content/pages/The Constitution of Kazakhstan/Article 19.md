@@ -1,0 +1,2 @@
+1. Everyone shall have the right to determine and indicate or not to indicate his national, party and religious affiliation.
+2. Everyone shall have the right to use his native language and culture, to freely choose the language of communication, education, instruction and creative activities.

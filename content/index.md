@@ -2,8 +2,7 @@
 title: Home Page
 ---
 
-Hello 👋 Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern University Pritzker School of Law & Department of Political Science. I am interested in legal doctrine, political change, and legal profession—in post-socialist and common law countries. In my free time, I take pictures of things around. 
-
+Hello 👋 Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern University Pritzker School of Law & Department of Political Science. I am interested in administrative and constitutional law in post-socialist and common law countries. In my free time, I take pictures of things around. 
 
 ![[notes/images/photo.jpg]]
 ## Featured
@@ -19,7 +18,6 @@ Hello 👋 Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern U
 * [Photography](pages/Photography.md)
 * [Constitutional Court of Kazakhstan Watch](pages/Constitutional%20Court%20of%20Kazakhstan%20Watch.md)
 * [Teaching](pages/Teaching)
-
 
 
 
