@@ -3,7 +3,7 @@ title: "Biography and CV"
 ---
 
 ## 📄CV
-A copy of my CV is available here: [Link](https://nbviewer.org/github/juzgenbayev/cv/blob/main/cv-juzgenbayev.pdf)
+A copy of my CV is available here: [Link](https://cdn.jsdelivr.net/gh/juzgenbayev/cv@main/cv-juzgenbayev.pdf)
 
 
 ## 📚Education
