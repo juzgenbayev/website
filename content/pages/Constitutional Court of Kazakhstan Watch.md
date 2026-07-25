@@ -2,6 +2,7 @@
 title: Court Watch
 ---
 Here, I attempt to provide briefs from the decisions of the Constitutional Court of Kazakhstan in a relatively accessible format, hoping it could be useful for the readers interested in comparative constitutional law, comparative politics, and civil rights litigation.
+* [[Tokayev, 7 July 2026, On Official Interpretation of Articles 43(1), 72(2)–(3), 83(1), and 84(3) of the Constitution]]†
 * [[Danilova, 16 Apr 2025, On Article 65 of the Marriage Code]]†
 * [[Birzhanova, 20 January 2025, On Various Provisions of the Law on the Procedure for Organizing and Holding Peaceful Assemblies in the Republic of Kazakhstan]]† 
 * [[Kunakbayev, 27 Dec 2024, On Various Provisions of Articles 134, 104, and 109 of the Penitentiary Code]]

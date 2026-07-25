@@ -2,12 +2,12 @@
 title: Home Page
 ---
 
-Hello 👋 Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern University Pritzker School of Law & Department of Political Science. I am interested in administrative and constitutional law in post-socialist and common law countries. In my free time, I take pictures of things around. 
+Hello 👋 Welcome to my page! I am a J.D./Ph.D. Candidate at the Northwestern University Pritzker School of Law & Department of Political Science, and a Northwestern University Presidential Fellow. Beginning September 1, 2026, I will be a Doctoral Fellow at the American Bar Foundation. I am interested in administrative and constitutional law in post-socialist and common law countries. In my free time, I take pictures of things around. 
 
 ![[notes/images/photo.jpg]]
 ## Featured
 
-* 📄Trochev, A., & **Juzgenbayev, A.** (2025). [Diverging Trajectories of Post-Soviet Constitutional Courts](pages/Diverging%20Trajectories%20of%20Post-Soviet%20Constitutional%20Courts.md). _Constitutional Studies_, 11(1), 271–315. [doi:10.15781/43f33f59](https://doi.org/10.15781/43f33f59)
+* 📄 Trochev, A., & **Juzgenbayev, A.** (2025). [Diverging Trajectories of Post-Soviet Constitutional Courts](pages/Diverging%20Trajectories%20of%20Post-Soviet%20Constitutional%20Courts.md). _Constitutional Studies_, 11(1), 271–315. <a href="https://constitutionalstudies-ojs-utexas.tdl.org/cs/article/view/129/101" target="_blank" rel="noopener noreferrer">PDF</a>
 ## Navigation
 
 * [Biography and CV](pages/Biography%20and%20CV.md)
