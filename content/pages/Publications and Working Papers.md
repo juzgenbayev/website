@@ -14,4 +14,6 @@ title: "Publications and Working Papers"
 
 ## Working Papers
 
-📄 **Juzgenbayev, A.** Restricting Standing: _Spokeo_, _Ramirez_, and the Shift to Executive Regulatory Enforcement. (Note in Progress)
+📄 **Juzgenbayev, A.** Administrative Justice Encounters and Legal Efficacy: A Survey Experiment in Kazakhstan.
+
+📄 **Juzgenbayev, A.** Lateral Recruitment and Judicial Behavior in Authoritarian States.
