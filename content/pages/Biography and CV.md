@@ -24,14 +24,3 @@ Northwestern University, 2022
 
 Nazarbayev University, _2020, summa cum laude_
 
-## 🗣 Languages
-
-* Kazakh: Proficient Speaker
-* Russian: Native Speaker
-* English: Advanced Speaker
-* Ukrainian: Basic Speaker
-
-
-
-
-
