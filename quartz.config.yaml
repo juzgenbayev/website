@@ -1,0 +1,316 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+configuration:
+  pageTitle: "🪴 Alisher Juzgenbayev"
+  pageTitleSuffix: ""
+  enableSPA: true
+  enablePopovers: true
+  analytics:
+    provider: google
+    tagId: G-84DTMV9GPC
+  locale: en-US
+  baseUrl: alisher.site
+  ignorePatterns:
+    - private
+    - templates
+    - .obsidian
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Schibsted Grotesk
+      body: Source Sans Pro
+      code: IBM Plex Mono
+    colors:
+      lightMode:
+        light: "#faf8f8"
+        lightgray: "#e5e5e5"
+        gray: "#b8b8b8"
+        darkgray: "#4e4e4e"
+        dark: "#2b2b2b"
+        secondary: "#284b63"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
+        textHighlight: "#fff23688"
+      darkMode:
+        light: "#161618"
+        lightgray: "#393639"
+        gray: "#646464"
+        darkgray: "#d4d4d4"
+        dark: "#ebebec"
+        secondary: "#7b97aa"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
+        textHighlight: "#b3aa0288"
+
+plugins:
+  # --- transformers (v4: config.plugins.transformers) ---
+
+  # v4 Plugin.FrontMatter(). hidePropertiesView keeps frontmatter parsing and
+  # link resolution but suppresses the v5 properties panel, matching v4 output.
+  - source: "@quartz-community/note-properties"
+    enabled: true
+    options:
+      includeAll: false
+      includedProperties:
+        - description
+        - tags
+        - aliases
+      excludedProperties: []
+      hidePropertiesView: true
+      delimiters: ---
+      language: yaml
+    order: 5
+
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    options:
+      defaultDateType: modified
+      priority:
+        - git
+        - frontmatter
+        - filesystem
+    order: 10
+
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    options:
+      enableInHtmlEmbed: false
+      enableCheckbox: true
+    order: 30
+
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 40
+
+  - source: "@quartz-community/table-of-contents"
+    enabled: true
+    order: 50
+    # v4 had DesktopOnly(TableOfContents()) in the LEFT sidebar, not the right.
+    layout:
+      position: left
+      priority: 28
+      display: desktop-only
+
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+    order: 60
+
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+
+  - source: "@quartz-community/latex"
+    enabled: true
+    options:
+      renderEngine: katex
+    order: 80
+
+  - source: "@quartz-community/quartz-fonts"
+    enabled: true
+
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+    options: {}
+    order: 45
+
+  # --- filters (v4: config.plugins.filters) ---
+  - source: "@quartz-community/remove-draft"
+    enabled: true
+
+  # --- emitters (v4: config.plugins.emitters) ---
+  - source: "@quartz-community/alias-redirects"
+    enabled: true
+
+  - source: "@quartz-community/content-index"
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: true
+
+  - source: "@quartz-community/favicon"
+    enabled: true
+
+  - source: "@quartz-community/og-image"
+    enabled: true
+
+  # Emits a CNAME for alisher.site; previously relied on GitHub Pages settings only.
+  - source: "@quartz-community/cname"
+    enabled: true
+
+  # --- page types (v4: ContentPage/FolderPage/TagPage/NotFoundPage) ---
+  - source: "@quartz-community/content-page"
+    enabled: true
+
+  - source: "@quartz-community/folder-page"
+    enabled: true
+
+  - source: "@quartz-community/tag-page"
+    enabled: true
+
+  # --- layout components (v4: quartz.layout.ts) ---
+  - source: "@quartz-community/breadcrumbs"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 5
+      condition: not-index
+
+  - source: "@quartz-community/article-title"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+
+  - source: "@quartz-community/content-meta"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+
+  # Enabled in v4's defaultContentPageLayout; off by default in v5.
+  - source: "@quartz-community/tag-list"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 30
+
+  - source: "@quartz-community/page-title"
+    enabled: true
+    layout:
+      position: left
+      priority: 10
+
+  - source: "@quartz-community/spacer"
+    enabled: true
+    options: {}
+    order: 25
+    layout:
+      position: left
+      priority: 25
+      display: mobile-only
+
+  - source: "@quartz-community/search"
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+
+  - source: "@quartz-community/graph"
+    enabled: true
+    layout:
+      position: right
+      priority: 10
+
+  - source: "@quartz-community/backlinks"
+    enabled: true
+    layout:
+      position: right
+      priority: 50
+
+  - source: "@quartz-community/footer"
+    enabled: true
+    options:
+      links:
+        GitHub: https://github.com/jackyzha0/quartz
+        Discord Community: https://discord.gg/cRFFHYye7t
+    layout:
+      position: footer
+      priority: 50
+
+  # --- not used on this site (kept for discoverability) ---
+  - source: "@quartz-community/explorer" # v4 layout deliberately omitted this
+    enabled: false
+    layout:
+      position: left
+      priority: 50
+  - source: "@quartz-community/reader-mode" # not present in the v4 layout
+    enabled: false
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+  - source: "@quartz-community/canvas-page"
+    enabled: false
+  - source: "@quartz-community/bases-page"
+    enabled: false
+    options: {}
+    order: 50
+  - source: "@quartz-community/encrypted-pages"
+    enabled: false
+    order: 900
+  - source: "@quartz-community/stacked-pages"
+    enabled: false
+  - source: "@quartz-community/recent-notes"
+    enabled: false
+  - source: "@quartz-community/comments"
+    enabled: false
+    options:
+      provider: giscus
+      options: {}
+  - source: "@quartz-community/citations"
+    enabled: false
+    order: 85
+  - source: "@quartz-community/hard-line-breaks"
+    enabled: false
+    order: 90
+  - source: "@quartz-community/ox-hugo"
+    enabled: false
+    order: 91
+  - source: "@quartz-community/roam"
+    enabled: false
+    order: 92
+  - source: "@quartz-community/explicit-publish"
+    enabled: false
+  - source: "@quartz-themes/core"
+    enabled: false
+    options:
+      theme: tokyo-night
+      mode: both
+
+layout:
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+  byPageType:
+    "404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    content: {}
+    # v4's defaultListPageLayout: no TOC, no tag list, empty right column.
+    folder:
+      exclude:
+        - table-of-contents
+        - tag-list
+      positions:
+        right: []
+    tag:
+      exclude:
+        - table-of-contents
+        - tag-list
+      positions:
+        right: []

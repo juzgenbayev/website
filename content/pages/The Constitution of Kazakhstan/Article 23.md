@@ -1,0 +1,2 @@
+1. Citizens of the Republic of Kazakhstan shall have the right to freedom of association. The activity of public associations shall be regulated by law.
+2. Chairmen and judges of the Constitutional Court, the Supreme Court and other courts, chairmen and members of the Central Election Commission, the Supreme Audit Chamber of the Republic, military servicemen, employees of national security and law enforcement bodies may not be members of political parties, trade unions or advocates of any political party.

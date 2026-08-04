@@ -1,0 +1,4 @@
+1. Everyone shall have the right to free choice of work, occupation and profession. Forced labour shall be permitted only on the basis of a court order following conviction for a criminal or administrative offence, or in the event of a state of emergency or martial law.
+2. Everyone shall have the right to working conditions that meet safety and health requirements, to remuneration for work without discrimination and to social protection against unemployment.
+3. The right to individual and collective labour disputes shall be recognised, with the use of legally established means for their settlement, including the right to strike.
+4. Everyone shall have the right to rest. Persons working under contract shall be guaranteed the legally established length of working hours, days of rest and public holidays, and paid annual leave.

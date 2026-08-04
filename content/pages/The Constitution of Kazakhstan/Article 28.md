@@ -1,0 +1,2 @@
+1. A citizen of the Republic of Kazakhstan shall be guaranteed a minimum wage and a pension, as well as social security in old age, in case of sickness, disability or loss of the main source of income, and on other legal grounds.
+2. Voluntary social insurance, the creation of complementary forms of social security and charity shall be encouraged.

@@ -1,0 +1,3 @@
+x1. Everyone shall have the right to recognition as a person before the law and to the defence of his/her rights and freedoms by all means not inconsistent with the law, including necessary defence.
+1. Everyone shall have the right to judicial protection of his/her rights and freedoms.
+2. Everyone shall have the right to qualified legal assistance. In the cases provided for by law, legal assistance shall be provided free of charge.
