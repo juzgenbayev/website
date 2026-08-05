@@ -104,6 +104,9 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      # Opens external links in a new tab site-wide, so content does not need
+      # hand-written <a target="_blank"> (which breaks TOC entries in headings).
+      openLinksInNewTab: true
     order: 60
 
   - source: "@quartz-community/description"
