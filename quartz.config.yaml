@@ -162,8 +162,11 @@ plugins:
     enabled: true
 
   # --- layout components (v4: quartz.layout.ts) ---
+  # Disabled: every page lives under content/pages/, so the trail was always
+  # "Home > pages > <title>" and the middle crumb carried no information.
+  # Set enabled: true to restore the v4 behavior.
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
