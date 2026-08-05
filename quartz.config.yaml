@@ -234,12 +234,13 @@ plugins:
       position: right
       priority: 50
 
+  # No links: the upstream Quartz GitHub/Discord entries were inherited from
+  # the default config and are not this site's. The "Created with Quartz"
+  # attribution line is rendered separately and is kept.
   - source: "@quartz-community/footer"
     enabled: true
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: {}
     layout:
       position: footer
       priority: 50
